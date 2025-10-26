@@ -27,5 +27,3 @@ This project is a **Streamlit dashboard** for analyzing electricity consumption,
 Install dependencies:
 ```bash
 pip install streamlit pandas altair
-
-<img width="1835" height="870" alt="image" src="https://github.com/user-attachments/assets/2558ec97-8d36-4bc0-9f9f-53500e44cf57" />
