@@ -4,7 +4,7 @@ This project is a **Streamlit dashboard** for analyzing electricity consumption,
 
 ---
 
-## ✅ Features
+## Features
 - **Date range selector**: Choose start and end dates for analysis.
 - **Grouping options**: Aggregate data by Daily, Weekly, or Monthly intervals.
 - **KPI metrics**:
@@ -21,9 +21,11 @@ This project is a **Streamlit dashboard** for analyzing electricity consumption,
 
 ---
 
-## ▶️ How to Run the App
+##  How to Run the App
 
 ### **Option 1: Run from GitHub (Recommended)**
 Install dependencies:
 ```bash
 pip install streamlit pandas altair
+or 	
+Streamlit link: https://tatukotkalaaksofinal-projectelectricity-consumption-and-cost-a.streamlit.app/
